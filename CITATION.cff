@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these solutions, please cite them as below."
+title: "bpp-csp-lab: bin packing and cutting stock research"
+type: dataset
+authors:
+  - family-names: "Saccomanno"
+    given-names: "Francesco Paolo"
+    affiliation: "Independent researcher"
+    orcid: "https://orcid.org/0000-0002-8807-8659"
+version: "1.0.0"
+date-released: "2026-10-26"
+license: CC-BY-4.0
+keywords:
+  - bin packing
+  - cutting stock
+  - BPPLIB
+  - SSTriples

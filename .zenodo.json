@@ -1,0 +1,33 @@
+{
+  "title": "bpp-csp-lab: bin packing and cutting stock research (v1.0.0: optimal solutions for the SSTriples instances of BPPLIB)",
+  "upload_type": "dataset",
+  "description": "<p>Research material on one-dimensional bin packing (BPP) and cutting stock (CSP) problems: solutions for benchmark instances from BPPLIB and verification tools. Every solution is verified by a standalone script that checks the number of bins, the capacity of every bin and the multiset of weights against the original instance files.</p><p><b>Version 1.0.0: SSTriples.</b> Optimal solutions for all 150 SSTriples instances (da Silva and Schouery, INFORMS JoC 2023), valid for both the BPP and the CSP versions. BPPLIB's Solutions.xlsx (February 2026 snapshot) lists 58 of these instances as open, with best known upper bound LB + 1: 6 in N216W10000, 15 in N405W15000 and 37 in N648W20000. This record provides the first reported solutions attaining the lower bound for these 58 instances, which closes them: all 150 SSTriples instances are now solved to optimality.</p><p>The method used to find the solutions will be described in a forthcoming paper.</p>",
+  "creators": [
+    {
+      "name": "Saccomanno, Francesco Paolo",
+      "affiliation": "Independent researcher",
+      "orcid": "0000-0002-8807-8659"
+    }
+  ],
+  "keywords": [
+    "bin packing",
+    "cutting stock",
+    "BPPLIB",
+    "SSTriples",
+    "benchmark instances",
+    "optimal solutions"
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.1287/ijoc.2023.0399",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/mdelorme2/BPPLIB",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
