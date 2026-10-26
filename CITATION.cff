@@ -5,7 +5,7 @@ type: dataset
 authors:
   - family-names: "Saccomanno"
     given-names: "Francesco Paolo"
-    affiliation: "Independent researcher"
+    affiliation: "University of Calabria"
     orcid: "https://orcid.org/0000-0002-8807-8659"
 version: "1.0.0"
 date-released: "2026-10-26"
